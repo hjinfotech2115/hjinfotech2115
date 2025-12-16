@@ -1,64 +1,83 @@
-# Hi there! I'm Harshad Jethva 👋
-## A passionate Software Developer & Vibe Coder 👨‍💻
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/Harshad-Jethva/Harshad-Jethva?style=for-the-badge&logo=star&label=Star%20This%20Profile" alt="Star This Profile Badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Harshad-Jethva.Harshad-Jethva&style=for-the-badge&color=0e7c57" alt="Visitor Count" />
+</div>
 
-### Get to know what I do in 3 seconds:
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=435&lines=I+Build+Dynamic+Web+Experiences;I+Solve+Complex+Problems;I+Focus+on+Clean+and+Scalable+Code" alt="Typing Animation: I Build Dynamic Web Experiences; I Solve Complex Problems; I Focus on Clean and Scalable Code" />
-
----
-
-### 💡 About Me
-
-I'm a dedicated and enthusiastic developer with over **2.5 years of experience** crafting beautiful and functional web experiences. My mission is to turn complex problems into elegant, user-centric digital solutions.
-
-I focus on writing **clean, efficient, and scalable code** while maintaining a keen eye on design and user experience. I thrive on challenges and am committed to continuously learning and adapting to new technologies.
+<h1 align="center">
+    <a href="https://portfolio-hj.vercel.app/">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Harshad+Jethva;Software+Developer+%7C+Vibe+Coder;Crafting+Web+Experiences" alt="Typing Animation Header" />
+    </a>
+</h1>
 
 ---
 
-### 🛠️ My Technical Stack
+## 🚀 About My Journey
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | `HTML5` • `CSS3` • `JavaScript` • `React.js (Basic)` • `Tailwind CSS` |
-| **Backend** | `Python (Basic)` • `PHP (Basic)` |
-| **Database** | `MongoDB` • `SQL` • `MySQL` |
-| **Tools & Platforms** | `GitHub` • `Vercel` • `Netlify` • `Figma` • `Gemini` |
+<p align="justify">
+Hello! I'm Harshad, a passionate developer dedicated to building elegant and dynamic web solutions. With <strong>2.5+ years of experience</strong>, my focus is on turning complex challenges into user-centric applications using clean, scalable code. I thrive on continuous learning and aim to contribute to projects that push the boundaries of innovation.
+</p>
 
----
-
-### ✨ Dynamic GitHub Statistics
-
-I'm always working and learning! Check out some of my dynamic stats (These badges will update automatically):
+### 📈 Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshad-Jethva&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="Harshad-Jethva's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshad-Jethva&theme=vue-dark&mode=daily&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshad-Jethva&show_icons=true&theme=buefy&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=ecf0f1&bg_color=191919" alt="Harshad-Jethva's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshad-Jethva&theme=dark&mode=daily&hide_border=true&date_color=ecf0f1&ring=2ecc71&fire=c0392b&side_color=2c3e50&currStreakLabel=2ecc71" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### 🏆 Key Achievements & Highlights
+## 🛠️ Tech Stack & Toolkit
 
-* **Project Leadership:** Led the frontend development of a project that resulted in a **30% increase in user engagement**.
-* **Performance Optimization:** Successfully optimized application performance, **reducing load times by 50%**.
-* **Open Source Contributor:** Contributed to a popular open-source library with over **10k stars on GitHub**.
-* **Recognized Coder:** Vibe coder at the Regional Web Developers Conference 2026.
+<h3 align="center">Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<h3 align="center">Database & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🤝 Let's Connect!
+## 🏆 Key Achievements
 
-I'm currently open to new opportunities and collaborations. Feel free to reach out!
+* **Impact:** Led frontend development, increasing user engagement by **30%**.
+* **Performance:** Optimized application loading, achieving a **50% reduction in load times**.
+* **Community:** Contributed to a popular open-source library (**10k+ stars**).
+* **Recognition:** Vibe Coder at the Regional Web Developers Conference 2026.
 
-| Connect On: | Link |
-| :--- | :--- |
-| **Portfolio** | [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hj.vercel.app/) |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-jethva-470745312/) |
-| **GitHub** | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshad-Jethva) |
-| **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadjethva2111@gmail.com) |
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+    <a href="https://portfolio-hj.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/My_Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
+    </a>
+    <a href="https://www.linkedin.com/in/harshad-jethva-470745312/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="https://github.com/Harshad-Jethva" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:harshadjethva2111@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
+    </a>
+</p>
 
 ***
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Harshad-Jethva.Harshad-Jethva" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/Harshad-Jethva/Harshad-Jethva/output/snake.svg" alt="GitHub activity snake" />
 </div>
