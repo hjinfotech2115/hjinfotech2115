@@ -18,7 +18,7 @@ Here are the primary technologies and tools I work with:
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | `HTML5` • `CSS3` • `JavaScript` • `React.js (Basic)` • `Tailwind CSS` |
+| **Frontend** | `HTML5` • `CSS3` • `JavaScript` • `React.js (Basic)` • `Tailwind CSS + Bootstrap` |
 | **Backend** | `Python (Basic)` • `PHP (Basic)` |
 | **Database** | `MongoDB` • `SQL` • `MySQL` |
 | **Tools & Platforms** | `GitHub` • `Vercel` • `Netlify` • `Figma` • `Gemini` |
