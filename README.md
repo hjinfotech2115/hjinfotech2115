@@ -1,51 +1,48 @@
-# Hi there 👋, I'm Harshad Jethva!
+# Hi there, I'm Harshad Jethva! 👋
 
-### 💻 About Me
-
-I'm a passionate **[Your Primary Role/Title, e.g., Full-Stack Developer, Data Scientist, UX Designer]** based in **[Your City, Country]**. I thrive on building **[Type of things you like to build, e.g., scalable web applications, insightful data visualizations, user-centric mobile apps]**.
-
-* 🔭 I’m currently working on: **[A current project or skill you're learning]**
-* 🌱 I’m currently learning: **[A new language, framework, or concept, e.g., Go, Vue.js, Machine Learning fundamentals]**
-* 👯 I’m looking to collaborate on: **[Types of projects you find interesting, e.g., open-source tools, community-focused applications]**
-* 💬 Ask me about: **[Your area of expertise, e.g., JavaScript, Cloud Infrastructure, Game Development]**
-* ⚡ Fun fact: **[A brief, interesting personal detail]**
+### 🚀 Software Developer | Vibe Coder | Problem Solver
 
 ---
 
-### 🛠️ Technologies & Tools
+## 💡 About Me
 
-Here are some of the main tools and technologies I enjoy working with:
+I'm a dedicated and enthusiastic developer with over **2.5 years of experience** crafting beautiful and functional web experiences. My mission is to turn complex problems into elegant, user-centric digital solutions.
 
-| Category | Skills/Technologies |
+I focus on writing **clean, efficient, and scalable code** while maintaining a keen eye on design and user experience. I thrive on challenges and am committed to continuously learning and adapting to stay at the forefront of technology.
+
+---
+
+## 🛠️ My Technical Stack
+
+Here are the primary technologies and tools I work with:
+
+| Category | Skills |
 | :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, [Framework, e.g., React, Angular, Vue.js] |
-| **Backend** | [Language, e.g., Node.js, PHP], [Framework, e.g., Django, Express, Spring] |
-| **Databases** | [e.g., MongoDB, MySQL] |
-| **Other** | [e.g., Figma, Tableau, Unity, specific libraries] |
+| **Frontend** | `HTML5` • `CSS3` • `JavaScript` • `React.js (Basic)` • `Tailwind CSS` |
+| **Backend** | `Python (Basic)` • `PHP (Basic)` |
+| **Database** | `MongoDB` • `SQL` • `MySQL` |
+| **Tools & Platforms** | `GitHub` • `Vercel` • `Netlify` • `Figma` • `Gemini` |
 
 ---
 
-### 📊 My GitHub Stats
+## ✨ Key Achievements & Highlights
 
-<details>
-<summary>Click to view my GitHub stats</summary>
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=vue)](https://github.com/[Your-GitHub-Username])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=vue)](https://github.com/[Your-GitHub-Username])
-
-</details>
+* **Project Leadership:** Led the frontend development of a project that resulted in a **30% increase in user engagement**.
+* **Performance Optimization:** Successfully optimized application performance, **reducing load times by 50%**.
+* **Open Source Contributor:** Contributed to a popular open-source library with over **10k stars on GitHub**.
+* **Recognized Coder:** Vibe coder at the Regional Web Developers Conference 2026.
 
 ---
 
-### 📫 Get In Touch
+## 🔗 Let's Connect
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/[your-linkedin-id]] |
-| **Portfolio/Website** | [https://your-portfolio-website.com] |
-| **Email** | [your-email@example.com] |
+I'm currently open to new opportunities and collaborations. Feel free to reach out!
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshad-Jethva)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-jethva-470745312/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadjethva2111@gmail.com)
 
 ---
 
-###### Last Updated: [Month, Year]
+> **View my full portfolio for a complete overview of my work and experience:**
+> [https://portfolio-hj.vercel.app/](https://portfolio-hj.vercel.app/)
